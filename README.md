@@ -6,7 +6,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:krishana85289@gmail.com)
 
 Welcome to my Github page! <br>
-I am a software tester with a strong interest in machine learning and artificial intelligence. I am currently pursuing a career transition into the field of machine learning.
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
